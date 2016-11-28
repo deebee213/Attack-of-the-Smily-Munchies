@@ -3,7 +3,7 @@
 var canvasMultiplier = 40;
 
 //make an enemy every so many frames
-var enemyRate = 100;
+var enemyRate = 10;
 var powerRate = 500
 var enemyAngle = 20;
 var enemyDrunkness = 50;
